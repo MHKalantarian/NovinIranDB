@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">نوین ایران</string>
+    <string name="default_notification_channel_id">NOVINE_IRAN</string>
+
+    <!-- Errors -->
+    <string name="internet_error">خطا در اتصال به شبکه</string>
+    <string name="server_error">خطا در شبکه داخلی</string>
+    <string name="empty_field_warning">ابتدا تمام فیلد های مورد نیاز را پر کنید</string>
+    <string name="not_valid_field_warning">ابتدا تمام فیلد های مورد نیاز را با توجه به قوانین اصلاح کنید</string>
+    <string name="wrong_info_error">اطلاعات وارد شده نادرست است</string>
+    <string name="no_data_warning">در حال حاضر اطلاعاتی برای نمایش وجود ندارد</string>
+    <string name="success_request">درخواست شما با موفقیت انجام شد</string>
+</resources>
