@@ -3,27 +3,112 @@
       {
          "name":"عکاسی",
          "image":"http://novineiran.com/wp-content/uploads/2018/08/photo-1431068799455-80bae0caf685-770x340.jpeg",
-         "items":3
+         "items":[
+            {
+               "name":"آموزش نورپردازی",
+               "rate":4.3,
+               "price":45000
+            },
+            {
+               "name":"راهنمای خرید لنز",
+               "rate":3.5,
+               "price":15000
+            }
+         ]
       },
       {
          "name":"موسیقی",
          "image":"http://novineiran.com/wp-content/uploads/2018/08/photo-1525994886773-080587e161c2-740x310.jpeg",
-         "items":2
+         "items":[
+            {
+               "name":"آموزش کوک گیتار",
+               "rate":3,
+               "price":15000
+            },
+            {
+               "name":"راهنمای خرید ساز",
+               "rate":4.2,
+               "price":25000
+            },
+            {
+               "name":"آموزش پیانو",
+               "rate":4.2,
+               "price":320000
+            }
+         ]
       },
       {
          "name":"هنر",
          "image":"http://novineiran.com/wp-content/uploads/2018/07/cat_2-370x155.jpg",
-         "items":4
+         "items":[
+            {
+               "name":"آموزش رنگ سازی",
+               "rate":2.1,
+               "price":65000
+            },
+            {
+               "name":"آموزش ترمیم بوم",
+               "rate":5,
+               "price":50000
+            },
+            {
+               "name":"آموزش ساخت قلم",
+               "rate":3.3,
+               "price":15000
+            },
+            {
+               "name":"آموزش ساخت ماکت",
+               "rate":4.3,
+               "price":125000
+            }
+         ]
       },
       {
          "name":"نرم افزار",
          "image":"http://novineiran.com/wp-content/uploads/2018/08/photo-1461749280684-dccba630e2f6-370x155.jpeg",
-         "items":5
+         "items":[
+            {
+               "name":"آموزش زبان سی شارپ",
+               "rate":4.3,
+               "price":65000
+            },
+            {
+               "name":"آموزش متلب",
+               "rate":3.5,
+               "price":105000
+            },
+            {
+               "name":"آموزش زبان پایتون",
+               "rate":4,
+               "price":95000
+            },
+            {
+               "name":"آموزش زبان جاوا",
+               "rate":3.8,
+               "price":100000
+            },
+            {
+               "name":"آموزش ساخت اپلیکیشن اندروید",
+               "rate":2.3,
+               "price":150000
+            }
+         ]
       },
       {
          "name":"ورزشی",
          "image":"http://novineiran.com/wp-content/uploads/2018/07/cat_4-370x155.jpg",
-         "items":1
+         "items":[
+            {
+               "name":"آموزش ترمیم ماهیچه",
+               "rate":4.3,
+               "price":25000
+            },
+            {
+               "name":"تمرینات بدن سازی در خانه",
+               "rate":4.5,
+               "price":15000
+            }
+         ]
       }
    ]
 }
