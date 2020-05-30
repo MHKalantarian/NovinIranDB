@@ -1,109 +1,130 @@
 {
-   "categories":[
-      {
-         "name":"عکاسی",
-         "items":[
-            {
-               "name":"آموزش نورپردازی",
-               "rate":4.3,
-               "price":45000
-            },
-            {
-               "name":"راهنمای خرید لنز",
-               "rate":3.5,
-               "price":15000
-            }
-         ]
-      },
-      {
-         "name":"موسیقی",
-         "items":[
-            {
-               "name":"آموزش کوک گیتار",
-               "rate":3,
-               "price":15000
-            },
-            {
-               "name":"راهنمای خرید ساز",
-               "rate":4.2,
-               "price":25000
-            },
-            {
-               "name":"آموزش پیانو",
-               "rate":4.2,
-               "price":320000
-            }
-         ]
-      },
-      {
-         "name":"هنر",
-         "items":[
-            {
-               "name":"آموزش رنگ سازی",
-               "rate":2.1,
-               "price":65000
-            },
-            {
-               "name":"آموزش ترمیم بوم",
-               "rate":5,
-               "price":50000
-            },
-            {
-               "name":"آموزش ساخت قلم",
-               "rate":3.3,
-               "price":15000
-            },
-            {
-               "name":"آموزش ساخت ماکت",
-               "rate":4.3,
-               "price":125000
-            }
-         ]
-      },
-      {
-         "name":"نرم افزار",
-         "items":[
-            {
-               "name":"آموزش زبان سی شارپ",
-               "rate":4.3,
-               "price":65000
-            },
-            {
-               "name":"آموزش متلب",
-               "rate":3.5,
-               "price":105000
-            },
-            {
-               "name":"آموزش زبان پایتون",
-               "rate":4,
-               "price":95000
-            },
-            {
-               "name":"آموزش زبان جاوا",
-               "rate":3.8,
-               "price":100000
-            },
-            {
-               "name":"آموزش ساخت اپلیکیشن اندروید",
-               "rate":2.3,
-               "price":150000
-            }
-         ]
-      },
-      {
-         "name":"ورزشی",
-         "items":[
-            {
-               "name":"آموزش ترمیم ماهیچه",
-               "rate":4.3,
-               "price":25000
-            },
-            {
-               "name":"تمرینات بدن سازی در خانه",
-               "rate":4.5,
-               "price":15000
-            }
-         ]
-      }
-   ]
+    "categories":[
+        {
+            "name":"عکاسی",
+            "tag":"photography,camera",
+            "items":[
+                {
+                    "name":"آموزش نورپردازی",
+                    "tag":"lighting",
+                    "rate":4.3,
+                    "price":45000
+                },
+                {
+                    "name":"راهنمای خرید لنز",
+                    "tag":"camera,lens",
+                    "rate":3.5,
+                    "price":15000
+                }
+            ]
+        },
+        {
+            "name":"موسیقی",
+            "tag":"music",
+            "items":[
+                {
+                    "name":"آموزش کوک گیتار",
+                    "tag":"guitar",
+                    "rate":3,
+                    "price":15000
+                },
+                {
+                    "name":"راهنمای خرید ساز",
+                    "tag":"music,instrument",
+                    "rate":4.2,
+                    "price":25000
+                },
+                {
+                    "name":"آموزش پیانو",
+                    "tag":"piano",
+                    "rate":4.2,
+                    "price":320000
+                }
+            ]
+        },
+        {
+            "name":"هنر",
+            "tag":"art,theater,painting",
+            "items":[
+                {
+                    "name":"آموزش رنگ سازی",
+                    "tag":"color,palette",
+                    "rate":2.1,
+                    "price":65000
+                },
+                {
+                    "name":"آموزش ترمیم بوم",
+                    "tag":"painting,canvas",
+                    "rate":5,
+                    "price":50000
+                },
+                {
+                    "name":"آموزش ساخت قلم",
+                    "tag":"painting,brush",
+                    "rate":3.3,
+                    "price":15000
+                },
+                {
+                    "name":"آموزش ساخت ماکت",
+                    "tag":"architecture,maket",
+                    "rate":4.3,
+                    "price":125000
+                }
+            ]
+        },
+        {
+            "name":"نرم افزار",
+            "tag":"software,hardware,programming",
+            "items":[
+                {
+                    "name":"آموزش زبان سی شارپ",
+                    "tag":"programming,c#",
+                    "rate":4.3,
+                    "price":65000
+                },
+                {
+                    "name":"آموزش متلب",
+                    "tag":"programming,matlab",
+                    "rate":3.5,
+                    "price":105000
+                },
+                {
+                    "name":"آموزش زبان پایتون",
+                    "tag":"programming,python",
+                    "rate":4,
+                    "price":95000
+                },
+                {
+                    "name":"آموزش زبان جاوا",
+                    "tag":"programming,java",
+                    "rate":3.8,
+                    "price":100000
+                },
+                {
+                    "name":"آموزش ساخت اپلیکیشن اندروید",
+                    "tag":"programming,android",
+                    "rate":2.3,
+                    "price":150000
+                }
+            ]
+        },
+        {
+            "name":"ورزشی",
+            "tag":"sports",
+            "items":[
+                {
+                    "name":"آموزش ترمیم ماهیچه",
+                    "tag":"muscle",
+                    "rate":4.3,
+                    "price":25000
+                },
+                {
+                    "name":"تمرینات بدن سازی در خانه",
+                    "tag":"bodybuilding",
+                    "rate":4.5,
+                    "price":15000
+                }
+            ]
+        }
+    ]
 }
