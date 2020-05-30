@@ -2,7 +2,6 @@
    "categories":[
       {
          "name":"عکاسی",
-         "image":"http://novineiran.com/wp-content/uploads/2018/08/photo-1431068799455-80bae0caf685-770x340.jpeg",
          "items":[
             {
                "name":"آموزش نورپردازی",
@@ -18,7 +17,6 @@
       },
       {
          "name":"موسیقی",
-         "image":"http://novineiran.com/wp-content/uploads/2018/08/photo-1525994886773-080587e161c2-740x310.jpeg",
          "items":[
             {
                "name":"آموزش کوک گیتار",
@@ -39,7 +37,6 @@
       },
       {
          "name":"هنر",
-         "image":"http://novineiran.com/wp-content/uploads/2018/07/cat_2-370x155.jpg",
          "items":[
             {
                "name":"آموزش رنگ سازی",
@@ -65,7 +62,6 @@
       },
       {
          "name":"نرم افزار",
-         "image":"http://novineiran.com/wp-content/uploads/2018/08/photo-1461749280684-dccba630e2f6-370x155.jpeg",
          "items":[
             {
                "name":"آموزش زبان سی شارپ",
@@ -96,7 +92,6 @@
       },
       {
          "name":"ورزشی",
-         "image":"http://novineiran.com/wp-content/uploads/2018/07/cat_4-370x155.jpg",
          "items":[
             {
                "name":"آموزش ترمیم ماهیچه",
