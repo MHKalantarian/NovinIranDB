@@ -114,7 +114,7 @@
             "items":[
                 {
                     "name":"آموزش ترمیم ماهیچه",
-                    "tag":"muscle",
+                    "tag":"human,muscle",
                     "rate":4.3,
                     "price":25000
                 },
